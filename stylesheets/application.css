@@ -3721,8 +3721,8 @@ body {
 
 /* line 1, /Users/carolynvs/src/2016.writespeakcode.com/source/stylesheets/application/_hero.scss */
 .hero {
-  background: url("/images/2013-conf/2013-heads-down-overlay2.jpg"), no-repeat #256A8B scroll;
-  background: url("/images/2013-conf/2013-heads-down-overlay2.jpg"), no-repeat #256A8B scroll;
+  background: url("../images/2013-conf/2013-heads-down-overlay2.jpg"), no-repeat #256A8B scroll;
+  background: url("../images/2013-conf/2013-heads-down-overlay2.jpg"), no-repeat #256A8B scroll;
   background-color: #256A8B;
   background-position: top;
   background-repeat: no-repeat;
